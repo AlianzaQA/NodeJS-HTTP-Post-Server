@@ -3,7 +3,7 @@
  
 ## Setup
 First, you must install node.js here: https://nodejs.org/en/download/, any version should do.
-Make sure to include all of the defaults in the installation (mostly so that NPM is included}:
+Everything in the installation should be default (do not change any of the settings):
 ![Include NPM](images/NPM.PNG)
 
 Next, you can download the repository to your machine. Open a command prompt and navigate to the directory with the downloaded code.
