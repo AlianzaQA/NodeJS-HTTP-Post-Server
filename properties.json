@@ -1,0 +1,7 @@
+{  
+    "properties" : {
+            "host":"localhost",
+            "port": 7222
+    }
+}
+            
