@@ -13,7 +13,10 @@ If node was installed, you should be able to type the command ```npm install```.
 
 It should install some packages. (namely 'express' and 'socket.io').
 
-After, you can use the command ```node app.js```. 
+
+Now that everything is installed, you can use the command ```node app.js``` to start the server in this directory. 
+
+You can close the server with "Cntl + C" at any time, and restart it using the ```node app.js``` command.
 
 You should see the server start. By default, the server is started on ```http://localhost:7222/```.
 You can change the port by changing the "properties.json" file. (You can also change the hostname, but that won't do anything).
